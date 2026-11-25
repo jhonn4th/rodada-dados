@@ -1,0 +1,43 @@
+name: Robô Rodada (onde passa e público)
+
+on:
+  schedule:
+    # a cada hora, no minuto 17 (horário UTC). Evita o minuto 0, quando o GitHub fica congestionado.
+    - cron: '17 * * * *'
+  workflow_dispatch: {}   # botão "Run workflow" para rodar na hora
+
+permissions:
+  contents: write
+
+concurrency:
+  group: robo-rodada
+  cancel-in-progress: false
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Testes do robô
+        run: node --test robo/test/
+
+      - name: Rodar o robô
+        run: node robo/robo.mjs
+
+      - name: Publicar o arquivo atualizado
+        run: |
+          git config user.name "rodada-robo"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add robo/saida/extras.json
+          if git diff --cached --quiet; then
+            echo "Sem mudanças."
+          else
+            git commit -m "robô: atualiza onde passa e público"
+            git push
+          fi
