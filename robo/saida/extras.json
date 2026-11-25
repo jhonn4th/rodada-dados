@@ -1,0 +1,549 @@
+{
+ "generatedAt": "2026-11-25T00:33:18.842Z",
+ "sources": {
+  "tv": "Lance! — lance.com.br/onde-assistir",
+  "attendance": "ge — ficha técnica das páginas de jogo (ge.globo.com)"
+ },
+ "matches": [
+  {
+   "date": "2026-09-06",
+   "home": "ASA",
+   "away": "Uberlândia",
+   "tv": [],
+   "competition": "Brasileirão Série D",
+   "geUrl": "https://ge.globo.com/al/futebol/brasileirao-serie-d/jogo/06-09-2026/asa-arapiraca-uberlandia.ghtml",
+   "attTries": 3
+  },
+  {
+   "date": "2026-09-13",
+   "home": "Uberlândia",
+   "away": "ASA",
+   "tv": [],
+   "competition": "Brasileirão Série D",
+   "geUrl": "https://ge.globo.com/mg/triangulo-mineiro/futebol/brasileirao-serie-d/jogo/13-09-2026/uberlandia-asa-arapiraca.ghtml",
+   "attTries": 3
+  },
+  {
+   "date": "2026-10-17",
+   "home": "Maringá",
+   "away": "Ferroviária",
+   "tv": [],
+   "competition": "Brasileirão Série C",
+   "geUrl": "https://ge.globo.com/pr/futebol/brasileirao-serie-c/jogo/17-10-2026/maringa-ferroviaria.ghtml",
+   "attTries": 3
+  },
+  {
+   "date": "2026-10-24",
+   "home": "Ferroviária",
+   "away": "Maringá",
+   "tv": [],
+   "competition": "Brasileirão Série C",
+   "geUrl": "https://ge.globo.com/sp/ribeirao-preto-e-regiao/futebol/brasileirao-serie-c/jogo/24-10-2026/ferroviaria-maringa.ghtml",
+   "attendance": {
+    "paying": 11447,
+    "present": 11447,
+    "income": 147320
+   }
+  },
+  {
+   "date": "2026-11-21",
+   "home": "Palmeiras",
+   "away": "Flamengo",
+   "tv": [],
+   "competition": "Brasileirão Série A",
+   "geUrl": "https://ge.globo.com/sp/futebol/brasileirao-serie-a/jogo/21-11-2026/palmeiras-flamengo.ghtml",
+   "attendance": {
+    "paying": null,
+    "present": 38631,
+    "income": 4446565.71
+   }
+  },
+  {
+   "date": "2026-11-21",
+   "home": "Bahia",
+   "away": "Coritiba",
+   "tv": [],
+   "competition": "Brasileirão Série A",
+   "geUrl": "https://ge.globo.com/ba/futebol/brasileirao-serie-a/jogo/21-11-2026/bahia-coritiba.ghtml",
+   "attendance": {
+    "paying": 34799,
+    "present": 35113,
+    "income": 1244687
+   }
+  },
+  {
+   "date": "2026-11-21",
+   "home": "Chapecoense",
+   "away": "Cruzeiro",
+   "tv": [],
+   "competition": "Brasileirão Série A",
+   "geUrl": "https://ge.globo.com/sc/futebol/brasileirao-serie-a/jogo/21-11-2026/chapecoense-cruzeiro.ghtml",
+   "attTries": 2
+  },
+  {
+   "date": "2026-11-22",
+   "home": "Atlético-GO",
+   "away": "Vila Nova",
+   "tv": [],
+   "competition": "Brasileirão Série B",
+   "geUrl": "https://ge.globo.com/go/futebol/brasileirao-serie-b/jogo/22-11-2026/atletico-go-vila-nova.ghtml",
+   "attendance": {
+    "paying": 11707,
+    "present": 12089,
+    "income": null
+   }
+  },
+  {
+   "date": "2026-11-22",
+   "home": "Criciúma",
+   "away": "Fortaleza",
+   "tv": [],
+   "competition": "Brasileirão Série B",
+   "geUrl": "https://ge.globo.com/sc/futebol/brasileirao-serie-b/jogo/22-11-2026/criciuma-fortaleza.ghtml",
+   "attendance": {
+    "paying": null,
+    "present": 16121,
+    "income": 325140
+   }
+  },
+  {
+   "date": "2026-11-22",
+   "home": "Athletico-PR",
+   "away": "Remo",
+   "tv": [],
+   "competition": "Brasileirão Série A",
+   "geUrl": "https://ge.globo.com/pr/futebol/brasileirao-serie-a/jogo/22-11-2026/athletico-pr-remo.ghtml",
+   "attTries": 2
+  },
+  {
+   "date": "2026-11-22",
+   "home": "Fluminense",
+   "away": "Mirassol",
+   "tv": [],
+   "competition": "Brasileirão Série A",
+   "geUrl": "https://ge.globo.com/rj/futebol/brasileirao-serie-a/jogo/22-11-2026/fluminense-mirassol.ghtml",
+   "attTries": 2
+  },
+  {
+   "date": "2026-11-22",
+   "home": "Bragantino",
+   "away": "Vasco",
+   "tv": [],
+   "competition": "Brasileirão Série A",
+   "geUrl": "https://ge.globo.com/sp/vale-do-paraiba-regiao/futebol/brasileirao-serie-a/jogo/22-11-2026/bragantino-vasco.ghtml",
+   "attTries": 2
+  },
+  {
+   "date": "2026-11-23",
+   "home": "Neftchi",
+   "away": "Al-Hilal",
+   "tv": [
+    {
+     "name": "ESPN 4",
+     "type": "fechada"
+    },
+    {
+     "name": "Disney+",
+     "type": "streaming"
+    }
+   ],
+   "time": "10:45",
+   "competition": "AFC Champions League",
+   "tvSource": "https://www.lance.com.br/onde-assistir/jogos-de-hoje-quem-joga-no-futebol-e-onde-assistir-ao-vivo-segunda-feira-23-11-2026.html"
+  },
+  {
+   "date": "2026-11-23",
+   "home": "Al Shamal",
+   "away": "Al-Ahli Saudi",
+   "tv": [
+    {
+     "name": "Disney+",
+     "type": "streaming"
+    }
+   ],
+   "time": "13:00",
+   "competition": "AFC Champions League",
+   "tvSource": "https://www.lance.com.br/onde-assistir/jogos-de-hoje-quem-joga-no-futebol-e-onde-assistir-ao-vivo-segunda-feira-23-11-2026.html"
+  },
+  {
+   "date": "2026-11-23",
+   "home": "Bayern de Munique",
+   "away": "Hoffenheim",
+   "tv": [
+    {
+     "name": "DAZN",
+     "type": "streaming"
+    }
+   ],
+   "time": "14:00",
+   "competition": "Bundesliga Feminina",
+   "tvSource": "https://www.lance.com.br/onde-assistir/jogos-de-hoje-quem-joga-no-futebol-e-onde-assistir-ao-vivo-segunda-feira-23-11-2026.html"
+  },
+  {
+   "date": "2026-11-23",
+   "home": "Brondby",
+   "away": "Midtjylland",
+   "tv": [
+    {
+     "name": "canalgolbrasil (YouTube)",
+     "type": "youtube"
+    }
+   ],
+   "time": "15:00",
+   "competition": "Campeonato Dinamarquês",
+   "tvSource": "https://www.lance.com.br/onde-assistir/jogos-de-hoje-quem-joga-no-futebol-e-onde-assistir-ao-vivo-segunda-feira-23-11-2026.html"
+  },
+  {
+   "date": "2026-11-23",
+   "home": "Al Ahly",
+   "away": "Pyramids",
+   "tv": [
+    {
+     "name": "LINKALVIVERDE (YouTube)",
+     "type": "youtube"
+    }
+   ],
+   "time": "15:00",
+   "competition": "Campeonato Egípcio",
+   "tvSource": "https://www.lance.com.br/onde-assistir/jogos-de-hoje-quem-joga-no-futebol-e-onde-assistir-ao-vivo-segunda-feira-23-11-2026.html"
+  },
+  {
+   "date": "2026-11-23",
+   "home": "Al-Ittihad",
+   "away": "Pakhtakor",
+   "tv": [
+    {
+     "name": "Disney+",
+     "type": "streaming"
+    }
+   ],
+   "time": "15:15",
+   "competition": "AFC Champions League",
+   "tvSource": "https://www.lance.com.br/onde-assistir/jogos-de-hoje-quem-joga-no-futebol-e-onde-assistir-ao-vivo-segunda-feira-23-11-2026.html"
+  },
+  {
+   "date": "2026-11-23",
+   "home": "Palma",
+   "away": "Inter",
+   "tv": [
+    {
+     "name": "canalgolbrasil (YouTube)",
+     "type": "youtube"
+    }
+   ],
+   "time": "16:30",
+   "competition": "Liga Espanhola de Futsal",
+   "tvSource": "https://www.lance.com.br/onde-assistir/jogos-de-hoje-quem-joga-no-futebol-e-onde-assistir-ao-vivo-segunda-feira-23-11-2026.html"
+  },
+  {
+   "date": "2026-11-23",
+   "home": "Juventud",
+   "away": "Defensor Sporting",
+   "tv": [
+    {
+     "name": "Disney+",
+     "type": "streaming"
+    }
+   ],
+   "time": "16:30",
+   "competition": "Campeonato Uruguaio",
+   "tvSource": "https://www.lance.com.br/onde-assistir/jogos-de-hoje-quem-joga-no-futebol-e-onde-assistir-ao-vivo-segunda-feira-23-11-2026.html"
+  },
+  {
+   "date": "2026-11-23",
+   "home": "Monza",
+   "away": "Fiorentina",
+   "tv": [
+    {
+     "name": "SportyNetBrasil (YouTube)",
+     "type": "youtube"
+    },
+    {
+     "name": "SportyNet",
+     "type": "streaming"
+    },
+    {
+     "name": "Disney+",
+     "type": "streaming"
+    }
+   ],
+   "time": "16:45",
+   "competition": "Serie A",
+   "tvSource": "https://www.lance.com.br/onde-assistir/jogos-de-hoje-quem-joga-no-futebol-e-onde-assistir-ao-vivo-segunda-feira-23-11-2026.html"
+  },
+  {
+   "date": "2026-11-23",
+   "home": "Brentford",
+   "away": "Everton",
+   "tv": [
+    {
+     "name": "ESPN",
+     "type": "fechada"
+    },
+    {
+     "name": "Disney+",
+     "type": "streaming"
+    }
+   ],
+   "time": "17:00",
+   "competition": "Premier League",
+   "tvSource": "https://www.lance.com.br/onde-assistir/jogos-de-hoje-quem-joga-no-futebol-e-onde-assistir-ao-vivo-segunda-feira-23-11-2026.html"
+  },
+  {
+   "date": "2026-11-23",
+   "home": "Levante",
+   "away": "Elche",
+   "tv": [
+    {
+     "name": "CazéTV (YouTube)",
+     "type": "youtube"
+    }
+   ],
+   "time": "17:00",
+   "competition": "LaLiga",
+   "tvSource": "https://www.lance.com.br/onde-assistir/jogos-de-hoje-quem-joga-no-futebol-e-onde-assistir-ao-vivo-segunda-feira-23-11-2026.html"
+  },
+  {
+   "date": "2026-11-23",
+   "home": "Gimnasia La Plata",
+   "away": "Newell's Old Boys",
+   "tv": [
+    {
+     "name": "ESPN 4",
+     "type": "fechada"
+    },
+    {
+     "name": "Disney+",
+     "type": "streaming"
+    }
+   ],
+   "time": "17:00",
+   "competition": "Campeonato Argentino (OF)",
+   "tvSource": "https://www.lance.com.br/onde-assistir/jogos-de-hoje-quem-joga-no-futebol-e-onde-assistir-ao-vivo-segunda-feira-23-11-2026.html"
+  },
+  {
+   "date": "2026-11-23",
+   "home": "Internacional",
+   "away": "Vitória",
+   "tv": [
+    {
+     "name": "Premiere",
+     "type": "ppv"
+    }
+   ],
+   "time": "19:30",
+   "competition": "Brasileirão",
+   "tvSource": "https://www.lance.com.br/onde-assistir/jogos-de-hoje-quem-joga-no-futebol-e-onde-assistir-ao-vivo-segunda-feira-23-11-2026.html",
+   "geUrl": "https://ge.globo.com/rs/futebol/brasileirao-serie-a/jogo/23-11-2026/internacional-vitoria.ghtml",
+   "attTries": 2
+  },
+  {
+   "date": "2026-11-23",
+   "home": "Albion",
+   "away": "Danúbio",
+   "tv": [
+    {
+     "name": "Disney+",
+     "type": "streaming"
+    }
+   ],
+   "time": "19:30",
+   "competition": "Campeonato Uruguaio",
+   "tvSource": "https://www.lance.com.br/onde-assistir/jogos-de-hoje-quem-joga-no-futebol-e-onde-assistir-ao-vivo-segunda-feira-23-11-2026.html"
+  },
+  {
+   "date": "2026-11-23",
+   "home": "Botafogo",
+   "away": "São Paulo",
+   "tv": [
+    {
+     "name": "Prime Video",
+     "type": "streaming"
+    }
+   ],
+   "time": "20:00",
+   "competition": "Brasileirão",
+   "tvSource": "https://www.lance.com.br/onde-assistir/jogos-de-hoje-quem-joga-no-futebol-e-onde-assistir-ao-vivo-segunda-feira-23-11-2026.html",
+   "geUrl": "https://ge.globo.com/rj/futebol/brasileirao-serie-a/jogo/23-11-2026/botafogo-sao-paulo.ghtml",
+   "attTries": 2
+  },
+  {
+   "date": "2026-11-23",
+   "home": "Santos",
+   "away": "Grêmio",
+   "tv": [
+    {
+     "name": "Sportv",
+     "type": "fechada"
+    },
+    {
+     "name": "Premiere",
+     "type": "ppv"
+    }
+   ],
+   "time": "21:00",
+   "competition": "Brasileirão",
+   "tvSource": "https://www.lance.com.br/onde-assistir/jogos-de-hoje-quem-joga-no-futebol-e-onde-assistir-ao-vivo-segunda-feira-23-11-2026.html",
+   "geUrl": "https://ge.globo.com/sp/santos-e-regiao/futebol/brasileirao-serie-a/jogo/23-11-2026/santos-gremio.ghtml",
+   "attendance": {
+    "paying": null,
+    "present": 43527,
+    "income": 4174815
+   }
+  },
+  {
+   "date": "2026-11-23",
+   "home": "St. Louis City",
+   "away": "Los Angeles FC",
+   "tv": [
+    {
+     "name": "AppleTV",
+     "type": "streaming"
+    }
+   ],
+   "time": "22:00",
+   "competition": "MLS",
+   "tvSource": "https://www.lance.com.br/onde-assistir/jogos-de-hoje-quem-joga-no-futebol-e-onde-assistir-ao-vivo-segunda-feira-23-11-2026.html"
+  },
+  {
+   "date": "2026-11-24",
+   "home": "Galatasaray",
+   "away": "Aston Villa",
+   "tv": [
+    {
+     "name": "HBO Max",
+     "type": "streaming"
+    }
+   ],
+   "time": "14:45",
+   "competition": "Champions League",
+   "tvSource": "https://www.lance.com.br/onde-assistir/jogos-de-hoje-quem-joga-no-futebol-e-onde-assistir-ao-vivo-terca-feira-24-11-2026.html"
+  },
+  {
+   "date": "2026-11-24",
+   "home": "Bodo Glimt",
+   "away": "Linz",
+   "tv": [
+    {
+     "name": "HBO Max",
+     "type": "streaming"
+    }
+   ],
+   "time": "14:45",
+   "competition": "Champions League",
+   "tvSource": "https://www.lance.com.br/onde-assistir/jogos-de-hoje-quem-joga-no-futebol-e-onde-assistir-ao-vivo-terca-feira-24-11-2026.html"
+  },
+  {
+   "date": "2026-11-24",
+   "home": "Feyenoord",
+   "away": "Porto",
+   "tv": [
+    {
+     "name": "HBO Max",
+     "type": "streaming"
+    }
+   ],
+   "time": "17:00",
+   "competition": "Champions League",
+   "tvSource": "https://www.lance.com.br/onde-assistir/jogos-de-hoje-quem-joga-no-futebol-e-onde-assistir-ao-vivo-terca-feira-24-11-2026.html"
+  },
+  {
+   "date": "2026-11-24",
+   "home": "Arsenal",
+   "away": "Borussia Dortmund",
+   "tv": [
+    {
+     "name": "HBO Max",
+     "type": "streaming"
+    }
+   ],
+   "time": "17:00",
+   "competition": "Champions League",
+   "tvSource": "https://www.lance.com.br/onde-assistir/jogos-de-hoje-quem-joga-no-futebol-e-onde-assistir-ao-vivo-terca-feira-24-11-2026.html"
+  },
+  {
+   "date": "2026-11-24",
+   "home": "Como",
+   "away": "AEK",
+   "tv": [
+    {
+     "name": "HBO Max",
+     "type": "streaming"
+    }
+   ],
+   "time": "17:00",
+   "competition": "Champions League",
+   "tvSource": "https://www.lance.com.br/onde-assistir/jogos-de-hoje-quem-joga-no-futebol-e-onde-assistir-ao-vivo-terca-feira-24-11-2026.html"
+  },
+  {
+   "date": "2026-11-24",
+   "home": "Slovan Bratislava",
+   "away": "Betis",
+   "tv": [
+    {
+     "name": "HBO Max",
+     "type": "streaming"
+    }
+   ],
+   "time": "17:00",
+   "competition": "Champions League",
+   "tvSource": "https://www.lance.com.br/onde-assistir/jogos-de-hoje-quem-joga-no-futebol-e-onde-assistir-ao-vivo-terca-feira-24-11-2026.html"
+  },
+  {
+   "date": "2026-11-24",
+   "home": "Manchester City",
+   "away": "Napoli",
+   "tv": [
+    {
+     "name": "HBO Max",
+     "type": "streaming"
+    }
+   ],
+   "time": "17:00",
+   "competition": "Champions League",
+   "tvSource": "https://www.lance.com.br/onde-assistir/jogos-de-hoje-quem-joga-no-futebol-e-onde-assistir-ao-vivo-terca-feira-24-11-2026.html"
+  },
+  {
+   "date": "2026-11-24",
+   "home": "Real Madrid",
+   "away": "PSV Eindhoven",
+   "tv": [
+    {
+     "name": "HBO Max",
+     "type": "streaming"
+    }
+   ],
+   "time": "17:00",
+   "competition": "Champions League",
+   "tvSource": "https://www.lance.com.br/onde-assistir/jogos-de-hoje-quem-joga-no-futebol-e-onde-assistir-ao-vivo-terca-feira-24-11-2026.html"
+  },
+  {
+   "date": "2026-11-24",
+   "home": "RB Leipzig",
+   "away": "Lens",
+   "tv": [
+    {
+     "name": "HBO Max",
+     "type": "streaming"
+    }
+   ],
+   "time": "17:00",
+   "competition": "Champions League",
+   "tvSource": "https://www.lance.com.br/onde-assistir/jogos-de-hoje-quem-joga-no-futebol-e-onde-assistir-ao-vivo-terca-feira-24-11-2026.html"
+  },
+  {
+   "date": "2026-11-24",
+   "home": "Chapecoense",
+   "away": "Palmeiras",
+   "tv": [
+    {
+     "name": "Premiere",
+     "type": "ppv"
+    }
+   ],
+   "time": "18:00",
+   "competition": "Brasileirão Série A",
+   "tvSource": "https://www.lance.com.br/onde-assistir/jogos-de-hoje-quem-joga-no-futebol-e-onde-assistir-ao-vivo-terca-feira-24-11-2026.html"
+  }
+ ]
+}
